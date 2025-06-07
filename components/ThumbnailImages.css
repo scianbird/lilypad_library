@@ -1,0 +1,7 @@
+.thumbnailImageCSS {
+  border-radius: 100%;
+}
+
+.thumbnailImageCSS:hover {
+  cursor: pointer;
+}
