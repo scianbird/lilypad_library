@@ -5,4 +5,17 @@
   width: 80vw;
   height: 80vh;
   object-fit: cover;
+  object-position: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .fullscreenIMG {
+    display: flex;
+    align-content: center;
+    justify-self: right;
+    width: 80vw;
+    height: 80vh;
+    object-fit: cover;
+    object-position: center;
+  }
 }

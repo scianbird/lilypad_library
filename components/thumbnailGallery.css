@@ -4,6 +4,19 @@
   background-color: #1a7e96;
   width: auto;
   justify-self: center;
+  overflow: scroll;
 }
 
 /* I FIGURED OUT HOW TO STYLE THEM .. ok I'm honestly confused as to why I was confused this whole time.. */
+@media only screen and (max-width: 600px) {
+  .thumbnailGallery {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    justify-content: center;
+    background-color: #1a7e96;
+    width: auto;
+    justify-self: center;
+    overflow: scroll;
+  }
+}
