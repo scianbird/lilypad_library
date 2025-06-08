@@ -1,9 +1,9 @@
 import "./App.css";
 import "/components/thumbnailGallery.css";
 import { useEffect, useState } from "react"; // I originally styled with tailwind, but as the app grew it became a little easier to spy mistakes in pure css files that I recognised the language in - I aim to use tailwind in a smaller project during self reflection time next week
-import ThumbnailImages from "/Components/ThumbnailImages";
-import FullscreenImages from "/Components/FullscreenImages";
-import Decor from "/Components/Decor";
+import ThumbnailImages from "/components/ThumbnailImages";
+import FullscreenImages from "/components/FullscreenImages";
+import Decor from "/components/Decor";
 
 export default function App() {
   const [isVisible, setIsVisible] = useState(false);
