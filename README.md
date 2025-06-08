@@ -1,6 +1,6 @@
 # Lilypad Library
 
-A small, reactive image gallery that allows you to explore life around the pond! <a href="https://lilypad-library.onrender.com>Take a look and see what you can find!</a> 🐸🦎🌾
+A small, reactive image gallery that allows you to explore life around the pond! <a href="https://lilypad-library.onrender.com">Take a look and see what you can find!</a> 🐸🦎🌾
 
 
 ## Aims, Planning and Design
