@@ -1,5 +1,7 @@
 .thumbnailImageCSS {
   border-radius: 100%;
+  height: 10dvh;
+  width: 7rem;
 }
 
 .thumbnailImageCSS:hover {

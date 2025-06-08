@@ -1,0 +1,7 @@
+.decorCSS {
+  display: flex;
+  position: static;
+  float: inline-end;
+  height: 6rem;
+  width: 7dvw;
+}

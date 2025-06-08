@@ -1,0 +1,9 @@
+.thumbnailGallery {
+  display: flex;
+  justify-content: center;
+  background-color: #1a7e96;
+  width: auto;
+  justify-self: center;
+}
+
+/* I FIGURED OUT HOW TO STYLE THEM .. ok I'm honestly confused as to why I was confused this whole time.. */
