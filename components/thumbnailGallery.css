@@ -14,7 +14,7 @@
     flex-direction: column;
     position: absolute;
     justify-content: center;
-    background-color: #1a7e96;
+    /* background-color: yellow; this was used as a way to test when it would "kick in"*/
     width: auto;
     justify-self: center;
     overflow: scroll;

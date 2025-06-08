@@ -34,7 +34,9 @@ I'm writing this on Saturday night (or well, Sunday morning) as regretfully I do
 
 The biggest regret is not finding time to add in accessibility options, such as being able to tab through the images, use the enter key, ARIA labels and to take into consideration physical limitations while designing the mobile styling (which I ended up doing rather rushed.. no matter how many times I say it's mobile first somehow it never ever is!). Something I am struggling with overall in this course is having a realistic sense of my progress (or lack thereof) + I think I am just feeling it "extra" this week due to the fact that week 02 assignment has haunted me (since I never really got it working). Always caught in that moment of "better than I fear but worse than I hope" but that's what drives me on!
 
-Even with all of this said, I am excited to get to grips with React more, and I have spent many of my self-reflection hours this week exploring what people have managed to create with React and drawn up some (simple) plans for personal projects that can hopefully become portfolio pieces.
+Even with all of this said, I am excited to get to grips with React more, and I have spent many of my self-reflection hours this week exploring what people have managed to create with React and drawn up some (simple) plans for personal projects that can hopefully become portfolio pieces 🙂‍↕️
+
+I ran a Lighthouse report on the page and well.. let's just say if it was good scores you would be seeing a screenshot! Just kidding, I'll list them here: Performance (63), Accessibility (92), Best Practices (75), SEO (83). On review of these scores obviously the loading time is a huge issue for the performance -- I had a quick google on how to limit the amount of information the API is fetching before the data.results step, but I couldn't find anything that I felt sure enough in experimenting with (especially as I was worried that it would break the entire app). The Best Practies similarly has a low score thanks to the 3rd party cookies from Unsplash -- I'm not sure if there's a way to bypass this, or if that would even be expected.
 
 ## Resources
 

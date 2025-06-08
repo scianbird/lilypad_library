@@ -10,6 +10,7 @@ export default function ThumbnailImages(props) {
         alt={props.alt}
         onClick={props.onClick}
         className="thumbnailImageCSS"
+        tabIndex={0}
       />
     </>
   );
