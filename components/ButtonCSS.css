@@ -1,0 +1,16 @@
+.buttonCSS {
+  display: flex;
+  background-color: #f58fa6;
+  color: #fae2ca;
+  border: none;
+  height: 1.5rem;
+  align-items: center;
+  justify-self: center;
+  margin: 5px;
+}
+
+.buttonCSS:hover {
+  cursor: pointer;
+  background-color: #fae2ca;
+  color: #f58fa6;
+}

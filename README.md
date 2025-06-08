@@ -24,8 +24,12 @@ Building happened slowly, and while my original plan had a component for the Thu
 
 Once I had a working MVP (where I could click a thumbnail icon and see the same image displayed in the main frame) I pushed a branch to git and began the experimenting that would allow me to get closer to what I originally imagined (conditional rendering and a pop-out window that displayed information about the chosen image).
 
+Mapping in the "wrong" place was something that haunted me from the beginning of the project, and I'm disappointed to say that I couldn't get a strong enough understanding of "how to write it" (so to speak). I believe the answer to what I wanted was to first fetch the API in app, then to pass the props along to a container in which I would map the images, meaning that when they were created they would be able to be styled via the container. I watched the recording of our class on props and read over our notes, as well as reading a few online examples, however I couldn't find a working example of what I was imagining, so I couldn't identify where I kept going wrong. The result is an app I am not happy with, styling wise, but I prioritised function over style.... THIS time.
+
 ## Resources
 
 ⭐️ <a href="https://www.vecteezy.com/vector-art/54977270-water-lily-icon">Water lily icon Vectors by Vecteezy</a>
 
 ⭐️ <a href="https://cleverchameleon.com.au/">Clever Chameleon Quilting</a>
+
+⭐️ <a href="https://www.vecteezy.com/vector-art/121441-cattails-vector">Cattails Vector Vectors by Vecteezy</a>

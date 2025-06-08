@@ -1,5 +1,5 @@
 import "./ThumbnailImages.css";
-
+import "./ButtonCSS.css";
 //
 
 export default function ThumbnailImages(props) {
