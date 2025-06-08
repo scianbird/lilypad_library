@@ -1,9 +1,16 @@
 .thumbnailImageCSS {
   border-radius: 100%;
   height: 10dvh;
-  width: 7rem;
 }
 
 .thumbnailImageCSS:hover {
   cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .thumbnailImageCSS {
+    border-radius: 100%;
+    height: 10dvh;
+    width: 5rem;
+  }
 }

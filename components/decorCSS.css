@@ -5,3 +5,9 @@
   height: 6rem;
   width: 7dvw;
 }
+
+@media only screen and (max-width: 600px) {
+  .decorCSS {
+    display: none;
+  }
+}

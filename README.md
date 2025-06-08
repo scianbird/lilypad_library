@@ -26,6 +26,16 @@ Once I had a working MVP (where I could click a thumbnail icon and see the same 
 
 Mapping in the "wrong" place was something that haunted me from the beginning of the project, and I'm disappointed to say that I couldn't get a strong enough understanding of "how to write it" (so to speak). I believe the answer to what I wanted was to first fetch the API in app, then to pass the props along to a container in which I would map the images, meaning that when they were created they would be able to be styled via the container. I watched the recording of our class on props and read over our notes, as well as reading a few online examples, however I couldn't find a working example of what I was imagining, so I couldn't identify where I kept going wrong. The result is an app I am not happy with, styling wise, but I prioritised function over style.... THIS time.
 
+## Reflections
+
+I can't say that I am happy with this project at all, but to compare having something to hand in vs being on the edge of dropping out of the course on Friday (which was my frustration talking) ... yeah, it's still an achievement ....φ(・∀・\*)
+
+I'm writing this on Saturday night (or well, Sunday morning) as regretfully I don't see myself having time to work on this tomorrow, so apologies if these reflections are proven out-of-date by something I later add in a moment of time I find.
+
+The biggest regret is not finding time to add in accessibility options, such as being able to tab through the images, use the enter key, ARIA labels and to take into consideration physical limitations while designing the mobile styling (which I ended up doing rather rushed.. no matter how many times I say it's mobile first somehow it never ever is!). Something I am struggling with overall in this course is having a realistic sense of my progress (or lack thereof) + I think I am just feeling it "extra" this week due to the fact that week 02 assignment has haunted me (since I never really got it working). Always caught in that moment of "better than I fear but worse than I hope" but that's what drives me on!
+
+Even with all of this said, I am excited to get to grips with React more, and I have spent many of my self-reflection hours this week exploring what people have managed to create with React and drawn up some (simple) plans for personal projects that can hopefully become portfolio pieces.
+
 ## Resources
 
 ⭐️ <a href="https://www.vecteezy.com/vector-art/54977270-water-lily-icon">Water lily icon Vectors by Vecteezy</a>

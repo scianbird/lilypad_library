@@ -5,3 +5,13 @@
   height: 6rem;
   width: 7dvw; /*using this so that these images stay responsive - also if I had more time I would have made a frame that I would have conditionally rendered instead but well .. this has to do */
 }
+
+@media only screen and (max-width: 600px) {
+  .decorCSS2 {
+    display: flex;
+    position: static;
+    float: inline-end;
+    height: 6rem;
+    width: 7dvw;
+  }
+}
